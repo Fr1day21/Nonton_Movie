@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff1744</color>
+    <color name="colorPrimaryDark">#c4001d</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gray">#eeeeee</color>
+
+    <color name="placeholder">#6FB6B6B6</color>
+
+    <color name="background">#FF2E2E2E</color>
+    <color name="bottomNav">#FF0C0C0C</color>
+    <color name="content">#FF202221</color>
+    <color name="yellow">#FFF2BF40</color>
+    <color name="grey">#FF7E7E7E</color>
+
+
+</resources>
